@@ -6,4 +6,3 @@ class Solution:
             if s[i] != s[len(s) - 1 - i]:
                 return False
         return True
-    

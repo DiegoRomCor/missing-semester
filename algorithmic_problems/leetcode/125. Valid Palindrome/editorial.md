@@ -11,8 +11,8 @@ The most straightforward way to check if a string is a valid palindrome is:
 
 If they are the same, the input is a valid palindrome.
 
-- **Time Complexity:** $O(n)$, where `n` is the length of the string, since we 
-traverse it to clean and reverse it.
+- **Time Complexity:** $O(n)$, where `n` is the length of the string, since we
+  traverse it to clean and reverse it.
 - **Space Complexity:** $O(n)$, because we store the cleaned string.
 
 Although simple and easy to implement, this solution uses extra memory for the

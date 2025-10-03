@@ -2,7 +2,7 @@
 
 ### Naive Solution
 
-The most straightforward way to check if a string is a valid palindrome is:
+The way to check if a string is a valid palindrome is:
 
 1. Remove all non-alphanumeric characters.
 2. Convert everything to lowercase.
